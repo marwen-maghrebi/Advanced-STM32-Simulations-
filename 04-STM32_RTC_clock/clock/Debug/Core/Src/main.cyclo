@@ -1,0 +1,14 @@
+../Core/Src/main.c:74:6:demoTFT	1
+../Core/Src/main.c:81:6:updateDateTime	1
+../Core/Src/main.c:91:6:validateDate	5
+../Core/Src/main.c:110:6:validateTime	4
+../Core/Src/main.c:121:6:checkInputFormat	8
+../Core/Src/main.c:139:6:Set_RTC_TimeAndDate	5
+../Core/Src/main.c:203:6:UART_ReceiveString	3
+../Core/Src/main.c:224:5:main	3
+../Core/Src/main.c:301:6:SystemClock_Config	4
+../Core/Src/main.c:349:13:MX_RTC_Init	4
+../Core/Src/main.c:407:13:MX_SPI1_Init	2
+../Core/Src/main.c:445:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:478:13:MX_GPIO_Init	1
+../Core/Src/main.c:517:6:Error_Handler	1
