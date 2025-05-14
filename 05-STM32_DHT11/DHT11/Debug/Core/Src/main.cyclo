@@ -1,0 +1,12 @@
+../Core/Src/main.c:70:6:start_signal	1
+../Core/Src/main.c:87:9:check_response	7
+../Core/Src/main.c:104:9:read_byte	5
+../Core/Src/main.c:117:6:process_sensor_data	2
+../Core/Src/main.c:139:6:delay_us	2
+../Core/Src/main.c:144:6:send_uart_message	1
+../Core/Src/main.c:154:5:main	2
+../Core/Src/main.c:209:6:SystemClock_Config	3
+../Core/Src/main.c:248:13:MX_TIM1_Init	4
+../Core/Src/main.c:294:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:327:13:MX_GPIO_Init	1
+../Core/Src/main.c:347:6:Error_Handler	1
