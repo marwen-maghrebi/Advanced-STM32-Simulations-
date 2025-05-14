@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<WORKSPACE>
+ <FRAME activeWindow="0">
+  <PLACEMENT>01d9d0cb00030000fffffffffffffff800000556000002d8000000000000001700000555000002d700000000020000000556000000000000001700000555000002d7</PLACEMENT>
+  <WINDOW type="default" module="ISIS" index="0" mode="00050a01"/>
+ </FRAME>
+ <MODULE name="ARES">
+  <editor gridmode="2" orgmode="0" gridminor="0" zoom="10" flipped="0" gridmajor="0" snap="0" snapidx="3" scale="10" xcursor="0" snaprange="0" metric="0">
+   <centre y="0" x="0"/>
+   <origin y="0" x="0"/>
+   <world y1="-12700000" x1="-15240000" x2="15240000" y2="12700000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="ISIS">
+  <editor gridmode="2" orgmode="0" gridminor="254000" zoom="-1" flipped="0" gridmajor="2540000" snap="254000" snapidx="2" scale="212" xcursor="0" snaprange="127000" metric="0">
+   <centre y="4918254" x="9611264"/>
+   <origin y="0" x="0"/>
+   <world y1="-8890000" x1="-12700000" x2="12700000" y2="8890000"/>
+  </editor>
+ </MODULE>
+ <MODULE name="VSMDEBUG">
+  <PWI/>
+ </MODULE>
+</WORKSPACE>
