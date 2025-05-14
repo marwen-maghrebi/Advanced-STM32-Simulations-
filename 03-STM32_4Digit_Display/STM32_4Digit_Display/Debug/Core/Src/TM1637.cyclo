@@ -1,0 +1,14 @@
+../Core/Src/TM1637.c:25:6:TM1637Display_init	1
+../Core/Src/TM1637.c:49:6:TM1637Display_setBrightness	2
+../Core/Src/TM1637.c:54:6:TM1637Display_setSegments	2
+../Core/Src/TM1637.c:73:6:TM1637Display_clear	1
+../Core/Src/TM1637.c:79:6:TM1637Display_showNumberDec	1
+../Core/Src/TM1637.c:84:6:TM1637Display_showNumberDecEx	2
+../Core/Src/TM1637.c:89:6:TM1637Display_showNumberHexEx	1
+../Core/Src/TM1637.c:94:9:TM1637Display_encodeDigit	1
+../Core/Src/TM1637.c:99:13:TM1637Display_bitDelay	3
+../Core/Src/TM1637.c:109:13:TM1637Display_start	1
+../Core/Src/TM1637.c:120:13:TM1637Display_stop	1
+../Core/Src/TM1637.c:140:13:TM1637Display_writeByte	4
+../Core/Src/TM1637.c:201:13:TM1637Display_showDots	2
+../Core/Src/TM1637.c:209:13:TM1637Display_showNumberBaseEx	13
