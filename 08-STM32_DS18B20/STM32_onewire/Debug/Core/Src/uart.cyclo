@@ -1,0 +1,2 @@
+../Core/Src/uart.c:11:6:uartx_write	1
+../Core/Src/uart.c:17:6:uartx_write_text	2

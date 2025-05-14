@@ -1,0 +1,2 @@
+../Core/Src/uart.c:11:6:uartx_write	16	static
+../Core/Src/uart.c:17:6:uartx_write_text	16	static
