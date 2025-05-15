@@ -1,0 +1,6 @@
+../Core/Src/main.c:59:6:shiftOut	16	static
+../Core/Src/main.c:71:5:main	16	static
+../Core/Src/main.c:121:6:SystemClock_Config	72	static
+../Core/Src/main.c:158:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:196:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:228:6:Error_Handler	4	static,ignoring_inline_asm
