@@ -1,0 +1,8 @@
+../Core/Src/MCP492X.c:3:13:CS_Select	1
+../Core/Src/MCP492X.c:7:13:CS_Deselect	1
+../Core/Src/MCP492X.c:11:19:DAC_MCP49x1_Init	9
+../Core/Src/MCP492X.c:58:6:DAC_MCP49x1_SetBuffer	1
+../Core/Src/MCP492X.c:62:19:DAC_MCP49x1_SetGain	3
+../Core/Src/MCP492X.c:73:6:DAC_MCP49x1_Shutdown	2
+../Core/Src/MCP492X.c:81:19:DAC_MCP49x1_Output	2
+../Core/Src/MCP492X.c:94:6:DAC_MCP49x1_Latch	3
