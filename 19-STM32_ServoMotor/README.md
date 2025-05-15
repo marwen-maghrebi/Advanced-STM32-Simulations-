@@ -5,7 +5,7 @@ This project demonstrates precise **PWM-based servo motor control** using an STM
 ---
 
 ## Hardware Requirements  
-![Servo Control Circuit](servo_circuit.png)  
+![Servo Control Circuit](circuit.png)  
 - **STM32F103C6 Microcontroller**  
 - **SG90/MG996R Servo Motor**  
 - **5V Power Supply** (for servo)  
