@@ -5,7 +5,7 @@ This project demonstrates **high-precision analog signal generation** using the 
 ---
 
 ## Hardware Requirements  
-![MCP4921 Circuit Diagram](mcp4921_circuit.png)  
+![MCP4921 Circuit Diagram](circuit.png)  
 - **STM32F103C6 Microcontroller**  
 - **MCP4921 12-bit DAC**  
 - **MCP1525 Voltage Reference** (2.5V)  
