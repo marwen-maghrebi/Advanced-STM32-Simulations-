@@ -58,8 +58,6 @@ This project demonstrates precise **PWM-based servo motor control** using an STM
     - Set_Servo_Angle(0);   // 0°.
     - Set_Servo_Angle(90);   // 90°
 
-
-
 ### Proteus Simulation  
 1. **Components**:  
     - STM32F103C6, SERVO-MOTOR, Virtual Terminal
