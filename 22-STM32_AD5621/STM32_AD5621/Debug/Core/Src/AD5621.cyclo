@@ -1,0 +1,3 @@
+../Core/Src/AD5621.c:19:6:ad5621_Init	1
+../Core/Src/AD5621.c:26:6:ad5621_SendToDAC	1
+../Core/Src/AD5621.c:33:6:ad5621_GenerateSineTable	2
