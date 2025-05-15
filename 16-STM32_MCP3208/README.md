@@ -5,7 +5,7 @@ This project demonstrates how to interface the **MCP3008 10-bit ADC** with an ST
 ---
 
 ## Hardware Requirements  
-![MCP3008 Circuit Diagram](mcp3008_circuit.png)  
+![MCP3008 Circuit Diagram](circuit.png)  
 - **STM32F103C6 Microcontroller**  
 - **MCP3008 8-Channel ADC**  
 - **Potentiometer/LDR/Sensor** (Analog input source)  
