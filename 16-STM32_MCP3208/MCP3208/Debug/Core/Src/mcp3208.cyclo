@@ -1,0 +1,4 @@
+../Core/Src/mcp3208.c:11:16:SPI_Transfer	1
+../Core/Src/mcp3208.c:19:6:MCP3208_Init	1
+../Core/Src/mcp3208.c:25:10:MCP3208_AnalogRead	1
+../Core/Src/mcp3208.c:127:11:MCP3208_AnalogReadDif	2
