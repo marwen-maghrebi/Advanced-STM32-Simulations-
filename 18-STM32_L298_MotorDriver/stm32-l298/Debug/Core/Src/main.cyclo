@@ -1,0 +1,9 @@
+../Core/Src/main.c:89:6:checkKeys	17
+../Core/Src/main.c:159:6:updateMotors	1
+../Core/Src/main.c:174:6:printSpeeds	1
+../Core/Src/main.c:187:5:main	3
+../Core/Src/main.c:248:6:SystemClock_Config	3
+../Core/Src/main.c:287:13:MX_TIM3_Init	7
+../Core/Src/main.c:350:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:383:13:MX_GPIO_Init	1
+../Core/Src/main.c:433:6:Error_Handler	1
