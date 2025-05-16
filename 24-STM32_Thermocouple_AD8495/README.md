@@ -5,7 +5,7 @@ This project demonstrates **high-precision temperature measurement** using a K-t
 ---
 
 ## Hardware Requirements  
-![AD8495 Circuit Diagram](ad8495_circuit.png)  
+![AD8495 Circuit Diagram](circuit.png)  
 - **STM32F103C6 Microcontroller**  
 - **AD8495 Thermocouple Amplifier**  
 - **K-Type Thermocouple**  
