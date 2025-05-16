@@ -1,0 +1,7 @@
+../Core/Src/Max31855.c:20:6:begin	2
+../Core/Src/Max31855.c:31:8:readInternal	2
+../Core/Src/Max31855.c:58:8:readCelsius	3
+../Core/Src/Max31855.c:101:9:readError	1
+../Core/Src/Max31855.c:109:8:readFahrenheit	1
+../Core/Src/Max31855.c:128:6:setFaultChecks	1
+../Core/Src/Max31855.c:138:10:spiread32	2

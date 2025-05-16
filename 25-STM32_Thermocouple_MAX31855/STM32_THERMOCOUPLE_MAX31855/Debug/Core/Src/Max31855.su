@@ -1,0 +1,7 @@
+../Core/Src/Max31855.c:20:6:begin	8	static
+../Core/Src/Max31855.c:31:8:readInternal	24	static
+../Core/Src/Max31855.c:58:8:readCelsius	24	static
+../Core/Src/Max31855.c:101:9:readError	8	static
+../Core/Src/Max31855.c:109:8:readFahrenheit	16	static
+../Core/Src/Max31855.c:128:6:setFaultChecks	16	static
+../Core/Src/Max31855.c:138:10:spiread32	16	static
