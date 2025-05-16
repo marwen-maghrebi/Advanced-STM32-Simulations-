@@ -5,7 +5,7 @@ This project demonstrates **ambient light sensing** using the APDS-9005 luminanc
 ---
 
 ## Hardware Requirements  
-![APDS-9005 Circuit Diagram](apds9005_circuit.png)  
+![APDS-9005 Circuit Diagram](circuit.png)  
 - **STM32F103C6 Microcontroller**  
 - **APDS-9005 Ambient Light Sensor**  
 - **10kΩ Resistor** (for voltage divider if needed)  
