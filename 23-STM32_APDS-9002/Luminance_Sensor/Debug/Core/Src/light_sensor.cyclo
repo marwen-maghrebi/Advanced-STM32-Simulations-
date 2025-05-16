@@ -1,0 +1,5 @@
+../Core/Src/light_sensor.c:15:6:LightSensor_Init	1
+../Core/Src/light_sensor.c:20:7:LightSensor_ReadVout	1
+../Core/Src/light_sensor.c:31:7:LightSensor_ReadLuminance	1
+../Core/Src/light_sensor.c:37:6:LightSensor_PrintReadings	1
+../Core/Src/light_sensor.c:46:14:FmultiMap	5
